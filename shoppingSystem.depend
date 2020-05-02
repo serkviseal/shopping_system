@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588453082 source:d:\personal\c language\shoppingsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+
